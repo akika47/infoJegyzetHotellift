@@ -1,0 +1,16 @@
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\infoJegyzet_11_14.exe
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\infoJegyzet_11_14.deps.json
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\infoJegyzet_11_14.runtimeconfig.json
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\infoJegyzet_11_14.dll
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\infoJegyzet_11_14.pdb
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.csproj.AssemblyReference.cache
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.AssemblyInfoInputs.cache
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.AssemblyInfo.cs
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.csproj.CoreCompileInputs.cache
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.dll
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\refint\infoJegyzet_11_14.dll
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.pdb
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\infoJegyzet_11_14.genruntimeconfig.cache
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\obj\Debug\net6.0\ref\infoJegyzet_11_14.dll
+C:\Users\otvos.akos\Desktop\infojegyzetFeladat\infoJegyzet_11_14\bin\Debug\net6.0\lift.txt.txt
